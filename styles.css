@@ -1,9 +1,6 @@
-#item-1{
+.holder{
 	display:flex;
 	justify-content:center;
 	align-items:center;
-	background:red;
-	width:100px;
-	height:100px;
 }
 /* Your CSS Code here. */
